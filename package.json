@@ -1,7 +1,7 @@
 {
   "name": "@touchcastllc/eslint-config",
   "version": "1.0.2",
-  "description": "Eslint config for touchcastllc projects",
+  "description": "Eslint config for touchcastllc projects.",
   "main": "index.js",
   "files": [
     "index.js",
